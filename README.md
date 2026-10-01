@@ -37,7 +37,7 @@ Ensure you have Node.js installed on your machine.
 **2. Clone the repository:**
 
 ```bash
-git clone [https://github.com/Andrewsemafumu/Team-Project-](https://github.com/Andrewsemafumu/Team-Project-)
+git clone [[https://github.com/Andrewsemafumu/Team-Project-](https://github.com/Andrewsemafumu/Team-Project-)](https://github.com/Ryan271991/Web_SmartCareSystem_2025_Group.git)
 ```
 **3. Run the Server (Frontend & Backend):**
 Navigate to the backend and frontend directories (installation packages are pre-zipped, so no install command is needed), then execute the following command:
